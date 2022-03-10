@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+For those interested, I took my profile picture while on vacation in Greece in 2015.
+
 <!--
 **Kirshma/kirshma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
