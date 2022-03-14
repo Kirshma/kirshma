@@ -1,16 +1,35 @@
 ### Hi there and welcome to my profile 👋
 
-Here you can find some of my projects, each containing a description in the respective README.md file.
+On this page you can find some of my projects, each containing a description in the respective README.md file.
 
-### Tools, languages, libraries, topics and more that I want to learn or keep learning (in no special order):
-1. Amazon AWS
-2. Microsoft Azure
-3. Docker
-4. IT security
-5. Machine Learning
-6. .NET
-7. Spring
+About me:
 
+### Computer languages that I have used in the order of proficiency
+1. Java (most on-hands experience)
+2. HTML, CSS, JavaScript, TypeScript, SQL, NoSQL, TeX, XML, JSON
+3. Python, C#, PHP, Prolog (least on-hands experience)
+
+### Integrated development environments in the order of experience
+1. Jetbrains Intellij IDEA and Webstorm
+2. Eclipse
+3. Visual Studio Code
+
+### Technologies, tools, libraries, frameworks and more
+1. Java: JUnit, PMD, Mockito, Guice, Maven, Selenium, JavaFX, Java Swing
+2. Web: Node.js, React, Vue, Bootstrap, jQuery
+3. Database: MySQL, XAMP, Key-Value Stores (Redis), Wide-Column DBMS (Cassandra),
+Document Stores (MongoDB), SearchEngines (Elasticsearch), Graph DBs (Neo4j), TimeSeries
+(InfluxDB)
+
+### Technologies and topics I want to learn (about) or keep learning (in no special order):
+1. Cloud Computing and Storage
+2. Amazon AWS
+3. Microsoft Azure
+4. Docker
+5. IT security
+6. Machine Learning
+7. .NET
+8. Spring
 
 ### Books I want to read (in no special order):
 1. Code Complete 2
