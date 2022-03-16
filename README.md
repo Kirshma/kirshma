@@ -6,33 +6,31 @@ About me:
 
 ### Computer languages that I have used in the order of proficiency
 1. Java (most on-hands experience)
-2. HTML, CSS, JavaScript, TypeScript, SQL, NoSQL, TeX, XML, JSON
+2. HTML, CSS, JavaScript, TypeScript, SQL, TeX, XML, JSON
 3. Python, C#, PHP, Prolog (least on-hands experience)
 
-### Integrated development environments in the order of experience
+### Integrated development environments that I have used in the order of experience
 1. Jetbrains Intellij IDEA and Webstorm
 2. Eclipse
 3. Visual Studio Code
 
-### Technologies, tools, libraries, frameworks and more
-1. Java: JUnit, PMD, Mockito, Guice, Maven, Selenium, JavaFX, Java Swing
-2. Web: Node.js, React, Vue, Bootstrap, jQuery
-3. Database: MySQL, XAMP, Key-Value Stores (Redis), Wide-Column DBMS (Cassandra),
+### Technologies, tools, libraries, frameworks and more that I have experience with
+1. Java: JUnit, PMD, Mockito, Guice, Maven, Selenium, JavaFX
+2. Web: React, Vue, Node.js, Bootstrap, jQuery
+3. Database: MySQL, Key-Value Stores (Redis), Wide-Column DBMS (Cassandra),
 Document Stores (MongoDB), SearchEngines (Elasticsearch), Graph DBs (Neo4j), TimeSeries
 (InfluxDB)
 
 ### Technologies and topics I want to learn (about) or keep learning (in no special order):
-1. Cloud Computing and Storage
-2. Amazon AWS
-3. Microsoft Azure
-4. Docker
-5. IT security
+1. Cloud Computing ( Amazon Web Services, Microsoft Azure )
+2. DevOps ( Docker, CI/CD )
+3. IT security
 6. Machine Learning
 7. .NET
 8. Spring
 
 ### Books I want to read (in no special order):
-1. Code Complete 2
+1. Code Complete
 2. Pragmatic Programmer
 3. Structure and Interpretation of Computer Programs
 4. Introduction to Algorithms
