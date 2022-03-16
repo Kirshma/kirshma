@@ -22,12 +22,14 @@ Document Stores (MongoDB), SearchEngines (Elasticsearch), Graph DBs (Neo4j), Tim
 (InfluxDB)
 
 ### Technologies and topics I want to learn (about) or keep learning (in no special order):
-1. Cloud Computing ( Amazon Web Services, Microsoft Azure )
-2. DevOps ( Docker, CI/CD )
-3. IT security
+1. Cloud Computing (Amazon Web Services, Microsoft Azure)
+2. DevOps (Docker, CI/CD)
+3. IT Security
+4. Software Architecture and Design
+5. Big Data (NoSQL Databases)
 6. Machine Learning
-7. .NET
-8. Spring
+7. .NET Framework
+8. Spring Framework
 
 ### Books I want to read (in no special order):
 1. Code Complete
