@@ -2,7 +2,7 @@
 
 On this page you can find some of my projects, each containing a description in the respective README.md file.
 
-About me:
+## About me
 
 ### Computer languages that I have used in the order of proficiency
 1. Java (most on-hands experience)
