@@ -1,23 +1,23 @@
 ### Hi there and welcome to my profile 👋
 
-On this page you can find some of my projects, each containing a description in the respective README.md file.
+Here you can find some of my projects, each containing a description in the respective README.md file.
 
 ## About me
 
 ### Computer languages that I have used in the order of proficiency
-1. Java (most on-hands experience)
+1. Java (most practical experience)
 2. HTML, CSS, JavaScript, TypeScript, SQL, TeX, XML, JSON
-3. Python, C#, PHP, Prolog (least on-hands experience)
+3. Python, C#, PHP, Prolog (least practical experience)
 
 ### Integrated development environments that I have used in the order of experience
 1. Jetbrains Intellij IDEA and Webstorm
 2. Eclipse
 3. Visual Studio Code
 
-### Technologies, tools, libraries, frameworks and more that I have experience with
+### Technologies, tools, libraries and frameworks that I have experience with
 1. Java: JUnit, PMD, Mockito, Guice, Maven, Selenium, JavaFX
 2. Web: React, Vue, Node.js, Bootstrap, jQuery
-3. Database: MySQL, Key-Value Stores (Redis), Wide-Column DBMS (Cassandra),
+3. Databases: MySQL, Key-Value Stores (Redis), Wide-Column DBMS (Cassandra),
 Document Stores (MongoDB), SearchEngines (Elasticsearch), Graph DBs (Neo4j), TimeSeries
 (InfluxDB)
 
@@ -26,8 +26,8 @@ Document Stores (MongoDB), SearchEngines (Elasticsearch), Graph DBs (Neo4j), Tim
 2. DevOps (Docker, CI/CD)
 3. IT Security
 4. Software Architecture and Design
-5. Big Data (NoSQL Databases)
-6. Machine Learning
+5. Parallel and network programming/computing
+6. Big Data (NoSQL databases, Knowledge Discovery, data visualization)
 7. .NET Framework
 8. Spring Framework
 
